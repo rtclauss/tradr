@@ -1,5 +1,5 @@
 <!--
-        Copyright 2018 IBM Corp All Rights Reserved
+        Copyright 2018, 2021 IBM Corp All Rights Reserved
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -42,6 +42,7 @@
 </template>
 
 <script>
+    
     import hcIcon from '@hybrid-cloud/cirrus-vue/src/components/hc-icon/hc-icon'
     import hcGlobalHeader from '@hybrid-cloud/cirrus-vue/src/components/hc-global-header/hc-global-header'
     import hcGlobalHeaderItem from '@hybrid-cloud/cirrus-vue/src/components/hc-global-header/hc-global-header-item'

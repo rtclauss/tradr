@@ -1,5 +1,5 @@
 /*
-       Copyright 2018 IBM Corp All Rights Reserved
+       Copyright 2018, 2021 IBM Corp All Rights Reserved
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -24,9 +24,14 @@ import VueJWT from 'vuejs-jwt'
 // HC CTO Artifacts
 import CirrusVue from '@hybrid-cloud/cirrus-vue/src/components/index'
 
+// Import Carbon
+import 'carbon-components/css/carbon-components.css';
+import CarbonComponentsVue from '@carbon/vue/src/index';
+
 Vue.config.devtools = true;
 Vue.config.productionTip = false;
 Vue.use(CirrusVue);
+Vue.use(CarbonComponentsVue);
 Vue.use(Vuex);
 Vue.use(VueJWT, {storage: 'localStorage', keyName: 'user_jwt'})
 

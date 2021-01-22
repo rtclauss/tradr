@@ -1,5 +1,5 @@
 <!--
-        Copyright 2018 IBM Corp All Rights Reserved
+        Copyright 2018, 2021 IBM Corp All Rights Reserved
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@
             <div class="box box--1-4th myDivider">
               <div class="row">
                 <div class="box box--center">
-                  <hc-heading class="u-text--centered u-text--light eyeCatcher" hc-rank="3" hc-style-level="1">21,899.89</hc-heading>
+                  <hc-heading class="u-text--centered u-text--light eyeCatcher" hc-rank="3" hc-style-level="1">31,399.89</hc-heading>
                 </div>
               </div>
               <div class="row">
@@ -40,7 +40,7 @@
                       <span class="u-text--bold">Open</span>
                     </div>
                     <div class="box box--3rd">
-                      21,739.78
+                      31,739.78
                     </div>
                   </div>
                 </div>
@@ -52,7 +52,7 @@
                       <span class="u-text--bold">High</span>
                     </div>
                     <div class="box box--3rd">
-                      21,912.83
+                      31,912.83
                     </div>
                   </div>
                 </div>
@@ -64,7 +64,7 @@
                       <span class="u-text--bold">Low</span>
                     </div>
                     <div class="box box--3rd">
-                      21,738.13
+                      31,738.13
                     </div>
                   </div>
                 </div>
