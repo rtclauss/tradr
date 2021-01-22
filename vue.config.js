@@ -16,6 +16,9 @@
 
 module.exports = {
     publicPath: '/tradr/',
+    devServer: {
+        disableHostCheck: true
+    },
     configureWebpack: {
         resolve: {
             modules: [
